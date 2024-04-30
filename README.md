@@ -1,0 +1,1 @@
+This repo contains sample seismic data that can be used to test seismic denoising performance. Same data has been used across multiple seismic densoing project which make it possible to benchmark your denoising method against classical baselines methods that can be found in other repositories here.
